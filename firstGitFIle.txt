@@ -1,2 +1,3 @@
 This is Sandeep. My first GITLab file.
 Adding new line
+Adding line from GitHub
