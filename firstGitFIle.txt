@@ -1,4 +1,8 @@
 This is Sandeep. My first GITLab file.
 Adding new line
 Adding line from GitHub
+<<<<<<< HEAD
 Adding a line from Prompt before pushing to Github
+=======
+Changing file from GitHub
+>>>>>>> dfb773e591a9e07dbcd6f451824f99235ef42cb6
